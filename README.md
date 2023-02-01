@@ -1,2 +1,2 @@
 # FinalGradeCalculator
-#Simple C++ program that calculates users final grade
+Simple C++ program that calculates users final grade
